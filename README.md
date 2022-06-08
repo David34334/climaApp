@@ -2,13 +2,19 @@
 
 Console weather application made with NodeJS :). You can request the weather status for any city or place. The application returns you something like:
 
-`Ciudad: Miami, Florida, Estados Unidos
-Latitud: 25.774173
-Longitud: -80.19362
-Estado actual: nubes
-Temperatura: 24.19
-Temp mínima: 23
-Temp máxima: 25`
+`City: Miami, Florida, Estados Unidos
+
+Lat: 25.774173
+
+Lon: -80.19362
+
+State: cloudy
+
+Temperature: 24.19
+
+Temp min: 23
+
+Temp max: 25`
 
 ## DEPENDENCIES
 
