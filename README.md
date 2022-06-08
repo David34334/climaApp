@@ -4,7 +4,7 @@ Console weather application made with NodeJS :)
 
 ## DEPENDENCIES
 
-Dependencies are used for this project is: Colors (colors in console), Axios (Http request), Inquirer (Menú console), dotEnv (enviroment variables).
+Dependencies are used for this project is: Colors (colors in console), Axios (Http request), Inquirer (Menú console), dotEnv (environment variables).
 
 ## REMEMBER
 
